@@ -24,4 +24,4 @@ If you find this one useful, please cite the two papers and my thesis:
 A Multiple Hypothesis based Particle Tracking Method with Application to Clathrin Mediated Endocytosis Analysis
 by Liang, Liang, Ph.D., YALE UNIVERSITY, 2013, 136 pages; 3578409
 
-If you have questions, you can sent emails to liangbright at gmail dot com. I am very busy, but I will try to reply.
+If you have questions, you can send email to liangbright at gmail dot com. I am very busy, but I will try to reply.
