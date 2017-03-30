@@ -1,0 +1,7 @@
+function Cal_d_to_I0(d, nt, ni, Lambda)
+
+d=(Lambda/(4*pi))./sqrt(ni^2*sin(Angle).^2-nt^2);
+
+Angle=asin(sqrt(((Lambda./(4*pi*d))^2+nt^2)/ni^2));
+
+I0=Cal_TIRF_I0(nt, ni, Angle)
