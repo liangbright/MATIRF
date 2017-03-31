@@ -1,4 +1,5 @@
 # MATIRF
+multiangle total internal reflection fluorescence microscopy
 
 This is the software for particle 3D position estimation from multiangle total internal reflection fluorescence (MATIRF) microscope.
 I developed this when I was a PhD student at Yale University.
